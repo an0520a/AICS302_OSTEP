@@ -2,6 +2,7 @@
 # Projects for an Operating Systems Class
 
 ## Did it : initial-reverse, initial-uilities, processes-shell, initial-xv6, scheduling-xv6-lottery
+### Warning : scheduling-xv6-lottery may not tested. I don't know if the version posted here is a bug-fixed version.
 
 
 This repository holds a number of projects that can be used in an operating
